@@ -13,14 +13,14 @@
 | William Hartnell           |  1965  | The Space Museum                |         Hulu        |  
 | William Hartnell           |  1965  | The Chase                       |         Hulu        |  
 | William Hartnell           |  1965  | The Time Meddler                |         Hulu        |  
-| <hr>  
+| <hr>                                                                                     ||||  
 | Patrick Troughton          |  1967  | The Tomb of the Cybermen        |        Amazon       |  
 | Patrick Troughton          |  1968  | The Enemy of the World          |         Hulu        |  
 | Patrick Troughton          |  1968  | The Web of Fear                 |         Hulu        |  
 | Patrick Troughton          |  1968  | The Dominator                   |         Hulu        |  
 | Patrick Troughton          |  1968  | The Mind Robber                 | Netflix/Amazon/Hulu |  
 | Patrick Troughton          |  1969  | The Krotons                     |         Hulu        |  
-| <hr>  
+| <hr>                                                                                     ||||  
 | Jon Pertwee                |  1970  | Spearhead from Space            | Netflix/Amazon/Hulu |  
 | Jon Pertwee                |  1970  | Doctor Who and the Silurians    |         Hulu        |  
 | Jon Pertwee                |  1970  | Inferno                         |         Hulu        |  
@@ -41,7 +41,7 @@
 | Jon Pertwee                |  1974  | Death to the Daleks             |         Hulu        |  
 | Jon Pertwee                |  1974  | The Monster of Peladon          |         Hulu        |  
 | Jon Pertwee                |  1974  | Planet of the Spiders           |         Hulu        |  
-| <hr>  
+| <hr>                                                                                     ||||  
 | Tom Baker                  |  1975  | Robot                           |         Hulu        |  
 | Tom Baker                  |  1975  | The Ark in Space                | Netflix/Amazon/Hulu |  
 | Tom Baker                  |  1975  | The Sontaran Experiment         |         Hulu        |  
@@ -76,7 +76,7 @@
 | Tom Baker                  |  1981  | Warriors’ Gate                  |         Hulu        |  
 | Tom Baker                  |  1981  | The Keeper of Traken            |         Hulu        |  
 | Tom Baker                  |  1981  | Logopolis                       |         Hulu        |  
-| <hr>  
+| <hr>                                                                                     ||||  
 | Peter Davison              |  1982  | Castrovalva                     |         Hulu        |  
 | Peter Davison              |  1982  | The Visitation                  | Netflix/Amazon/Hulu |  
 | Peter Davison              |  1982  | Black Orchid                    |         Hulu        |  
@@ -88,14 +88,14 @@
 | Peter Davison              |  1984  | Frontios                        |         Hulu        |  
 | Peter Davison              |  1984  | Resurrection of the Daleks      |         Hulu        |  
 | Peter Davison              |  1984  | The Caves of Androzani          | Netflix/Amazon/Hulu |  
-| <hr>  
+| <hr>                                                                                     ||||  
 | Colin Baker                |  1984  | The Twin Dilemma                |         Hulu        |  
 | Colin Baker                |  1985  | Attack of the Cybermen          |         Hulu        |  
 | Colin Baker                |  1985  | Vengeance on Varos              |        Amazon       |  
 | Colin Baker                |  1985  | The Mark of the Rani            |         Hulu        |  
 | Colin Baker                |  1985  | The Two Doctors                 |         Hulu        |  
 | Colin Baker                |  1985  | Timelash                        |         Hulu        |  
-| <hr>  
+| <hr>                                                                                     ||||  
 | Sylvester McCoy            |  1987  | Time and the Rani               |         Hulu        |  
 | Sylvester McCoy            |  1987  | Delta and the Bannermen         |         Hulu        |  
 | Sylvester McCoy            |  1987  | Dragonfire                      |         Hulu        |  
@@ -106,8 +106,8 @@
 | Sylvester McCoy            |  1989  | Battlefield                     |         Hulu        |  
 | Sylvester McCoy            |  1989  | The Curse of Fenric             | Netflix/Amazon/Hulu |  
 | Sylvester McCoy            |  1989  | Survival                        |         Hulu        |  
-| <hr>  
-| Paul McGann                |  1996  | Doctor Who (Movie)              |                     |  
+| <hr>                                                                                     ||||  
+| Paul McGann                |  1996  | Doctor Who (Movie)              |                     |    
 
 
 
